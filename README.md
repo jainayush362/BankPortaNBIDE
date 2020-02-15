@@ -1,0 +1,2 @@
+# BankPortaNBIDE
+This repository contains a zip file in which you can find the project named Citizen Care Bank. It is a banking portal developed using JAVA and NetBeansIDE 8.3. The project is based on JDBC Connectivity using MySQL as database. The user can search, retrieve, update, delete and insert new records in existing database.. You just need to import the project in NetBeans and create a database on MySQL as per the configuration of JDBC driver in the project. 
